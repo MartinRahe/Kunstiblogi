@@ -1,1 +1,2 @@
 # Kunstiblogi
+Kunstiajaloo kursuse asjad
